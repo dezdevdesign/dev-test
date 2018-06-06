@@ -1,0 +1,23 @@
+{
+  "name": "dev-lesson",
+  "version": "1.0.0",
+  "description": "This is a lesson.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezdevdesign/dev-test.git"
+  },
+  "author": "Edwin Melendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dezdevdesign/dev-test/issues"
+  },
+  "homepage": "https://github.com/dezdevdesign/dev-test#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
